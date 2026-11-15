@@ -28,7 +28,7 @@ The system follows an approach commonly used in large-scale recommendation platf
 
 **Dataset:** MovieLens ml-latest-small.
 
-**Project documentation:** [Large-Scale Personalized Recommendation Engine — Project Report](AIML-03/Large-Scale%20Personalized%20Recommendation%20Engine_Report.pdf)
+**Project documentation:** [Large-Scale Personalized Recommendation Engine - Project Report](AIML-03/Large-Scale%20Personalized%20Recommendation%20Engine_Report.pdf)
 
 **Project files:** [`AIML-03/`](AIML-03/)
 
@@ -53,7 +53,7 @@ The project explores visual perception using road-scene images, object detection
 
 **Dataset:** KITTI-based road-scene data.
 
-**Project documentation:** [Autonomous Driving Perception Stack — Project Report](AIML-04/Autonomous_Driving_Perception_Stack_Project_Report.pdf)
+**Project documentation:** [Autonomous Driving Perception Stack - Project Report](AIML-04/Autonomous_Driving_Perception_Stack_Project_Report.pdf)
 
 **Project files:** [`AIML-04/`](AIML-04/)
 
