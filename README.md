@@ -7,7 +7,7 @@ This repository brings together project implementations, experiments, datasets, 
 
 ## Projects
 
-### AIML-03 — Large-Scale Personalized Recommendation Engine
+### AIML-03 - Large-Scale Personalized Recommendation Engine
 
 A two-stage recommendation system designed to generate personalized movie recommendations.
 
@@ -34,7 +34,7 @@ The system follows an approach commonly used in large-scale recommendation platf
 
 ---
 
-### AIML-04 — Autonomous Driving Perception Stack
+### AIML-04 - Autonomous Driving Perception Stack
 
 An autonomous driving perception project focused on understanding road environments through computer vision and deep learning.
 
