@@ -1,0 +1,11 @@
+Diagnostic,Value
+user_embedding_count,610.0
+movie_embedding_count,9742.0
+trained_movie_count,5320.0
+untrained_movie_count,4422.0
+positive_test_interactions,5058.0
+positive_test_movies,2626.0
+positive_test_movies_without_training,581.0
+train_test_overlap,0.0
+user_embedding_mean_norm,2.890484571456909
+movie_embedding_mean_norm,1.4900180101394653

@@ -1,0 +1,4 @@
+Model,Recall@10,NDCG@10
+Popularity-Based,0.0426,0.0438
+User-Based Collaborative Filtering,0.0666,0.0637
+Two-Tower Retrieval,0.015801367486631048,0.013756395749275072

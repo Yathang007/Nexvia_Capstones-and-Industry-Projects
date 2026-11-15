@@ -1,0 +1,14 @@
+Metric,Value
+total_ratings,100836
+total_users,610
+unique_rated_movies,9724
+total_movies,9742
+average_rating,3.501556983616962
+minimum_rating,0.5
+maximum_rating,5.0
+missing_ratings,0
+missing_movies,0
+duplicate_rating_rows,0
+duplicate_user_movie_pairs,0
+earliest_rating,1996-03-29 18:36:55+00:00
+latest_rating,2018-09-24 14:27:30+00:00

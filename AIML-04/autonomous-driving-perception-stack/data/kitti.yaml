@@ -1,0 +1,14 @@
+
+path: C:/Users/yatha/Desktop/autonomous-driving-perception/data/kitti_yolo
+train: images/train
+val: images/val
+
+names:
+  0: car
+  1: van
+  2: truck
+  3: pedestrian
+  4: person_sitting
+  5: cyclist
+  6: tram
+  7: misc
